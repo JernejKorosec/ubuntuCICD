@@ -5,7 +5,9 @@ Download latest image, install it.
 
 
     sudo apt update
+    
     sudo apt upgrade  
+    
     sudo apt autoremove
   
 # And once again
